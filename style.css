@@ -1,3 +1,7 @@
+nav li {
+	display: inline;
+}
+
 body {
 	background: #cccccc;
 	margin: 0;
