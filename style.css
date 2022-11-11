@@ -1,4 +1,13 @@
+header {
+    padding: 20px 0;
+}
 
+
+.conteiner {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
 
 nav li {
 	display: inline;
