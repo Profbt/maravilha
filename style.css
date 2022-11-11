@@ -12,18 +12,14 @@ header {
 nav li {
 	display: inline;
 	margin: 0, 25px, 0, 25px;
-	padding: 25;
+	padding: 25px;
 	padding-right: 0%;
 	text-align: center;
 	
 	
 }
 
-nav {
-    position:absolute;
-    top: 130px;
-    right: 0px;
-}
+
 
 nav a {
 text-transform: uppercase;
