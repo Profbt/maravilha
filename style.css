@@ -1,11 +1,12 @@
 nav li {
 	display: inline;
-	text-decoration: none;
-	text-transform: uppercase;
+	
 }
 
 nav a {
-	
+text-transform: uppercase;
+color: black;
+
 }
 
 body {
