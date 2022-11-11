@@ -1,5 +1,39 @@
+.conteiner {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal {
+    width: 100%;
+}
+
 nav li {
-	display: inline;
+    display: inline;
+    margin: 0, 15px, 0, 15px;
+    padding: 25px;
+    padding-right: 0%;
+}
+
+nav {
+    position:absolute;
+    top: 130px;
+    right: 0px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #2e2c2c;
+    font-weight: lighter;
+    font-size: 35px;
+    text-decoration: none;
+    color: #02524d;
+}
+
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
 }
 
 body {
