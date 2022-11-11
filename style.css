@@ -11,28 +11,6 @@ header {
 
 nav li {
 	display: inline;
-	margin: 0, 15px, 0, 15px;
-	padding: 25px;
-	padding-right: 0%;
-	
-	
-	
-}
-
-
-
-nav a {
-text-transform: uppercase;
-color: black;
-font-weight: lighter;
-font-size: 35px;
-text-decoration: none;
-
-}
-
-nav a:hover {
-    color: #c78c19;
-    text-decoration: underline;
 }
 
 body {
