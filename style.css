@@ -6,6 +6,9 @@ nav li {
 nav a {
 text-transform: uppercase;
 color: black;
+font-weight: lighter;
+font-size: 35px;
+text-decoration: none;
 
 }
 
