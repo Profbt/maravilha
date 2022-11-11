@@ -1,5 +1,11 @@
 nav li {
 	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav a {
+	
 }
 
 body {
