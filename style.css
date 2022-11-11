@@ -1,8 +1,4 @@
-nav {
-	position: absolute;
-	top: 130px;
-	right: 0%;
-}
+
 
 nav li {
 	display: inline;
@@ -11,6 +7,12 @@ nav li {
 	padding-right: 0%;
 	
 	
+}
+
+nav {
+	position: absolute;
+	top: 130px;
+	right: 0%;
 }
 
 nav a {
