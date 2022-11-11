@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	
+
 }
 .conteiner {
     position: relative;
@@ -22,8 +22,6 @@ nav li {
 
 nav {
     position:absolute;
-    top: 130px;
-    right: 0px;
 }
 
 nav a {
