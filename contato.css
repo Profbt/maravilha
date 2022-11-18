@@ -8,6 +8,11 @@ nav li {
     display: inline;
 	text-decoration:none;
 	text-transform: uppercase;
+
+}
+
+nav {
+    width: 940px;
 }
 
 body {
