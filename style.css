@@ -2,7 +2,7 @@
 nav li {
     display: inline;
 	text-decoration:none;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	margin:0, 25px, 0, 25px;
 	padding: 5%;
 }
